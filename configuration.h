@@ -4,7 +4,7 @@
 #define COLOR_ORDER GRB //RGB
 #define NUM_LEDS    27 
 #define BRIGHTNESS          255 // 0-255
-#define FRAMES_PER_SECOND   120
+#define FRAMES_PER_SECOND   120 //remove?
 
 // setup WIFI network
 #define WIFI_NETW "secret_wifi"
